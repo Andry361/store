@@ -1,0 +1,4 @@
+C:\prog\Store\Store.Logic\bin\Debug\Store.Logic.dll
+C:\prog\Store\Store.Logic\bin\Debug\Store.Logic.pdb
+C:\prog\Store\Store.Logic\obj\Debug\Store.Logic.dll
+C:\prog\Store\Store.Logic\obj\Debug\Store.Logic.pdb
